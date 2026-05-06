@@ -1,0 +1,15 @@
+# --- Core Numerical & Scientific ---
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# --- Optimization Benchmarks ---
+opfunu>=1.0.1
+setuptools<70.0.0
+
+# --- Visualization & Reporting ---
+matplotlib>=3.7.0
+tabulate>=0.9.0
+
+# --- Environment ---
+notebook>=7.0.0
